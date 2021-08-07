@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "Yellow Marble ",
+      "body": "We offer Natural Marble in various colors and sizes. Our range of marbles has their own ethnicity and adds beauty to the place it is installed. These are offered at affordable prices for all our clients to choose our range from. We can fulfill the needs of all our clients as we provide them with distinctive colors and sizes of our range of natural marble stones.",
+      "author": "Elric",
+      "id": 6
+    },
+    {
+      "title": "Indian Constitution",
+      "body": "The Constitution of India is the supreme law of India. It frames fundamental political principles, procedures, practices, rights, powers, and duties of the government. It imparts constitutional supremacy and not parliamentary supremacy, as it is not created by the Parliament but, by a constituent assembly, and adopted by its people, with a declaration in its preamble. Parliament cannot override it.\nThe world’s longest constitution is the Indian’s constitution. At its commencement, it had 395 articles in 22 parts and 8 schedules. It consists of approximately 145,000 words, making it the second largest active constitution in the world. Currently, it has a preamble, 25 parts with 12 schedules, 5 appendices, 448 articles, and 101 amendments.\nThe constitution of India was adopted on the 26th of November, in the year 1949. However, it came to effect on the 26th of January, 1950. 26th of January is celebrated as the Republic Day of India.\n\nIt was adopted by the Constitution Assembly. Dr. B. R. Ambedkar,  the chairman of the Drafting Committee, is widely considered to be the architect of the Constitution of India. After, the adoption of the constitution, The Union of India became the contemporary and modern Republic of India",
+      "author": "Karan",
+      "id": 8
+    },
+    {
+      "title": "Competitive Programming",
+      "body": "Competitive Programming is a mental sport which enables you to code a given problem under provided constraints. The purpose of this article is to guide every individual possessing a desire to excel in this sport. This article provides a detailed syllabus for Competitive Programming designed by industry experts to boost the preparation of the readers.",
+      "author": "Elric",
+      "id": 9
+    }
+  ]
+}
